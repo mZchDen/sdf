@@ -1,0 +1,33 @@
+body {
+  padding: 70px;
+  padding-top: 40px;
+  color: #7e0d88;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.header {
+  width: 70%;
+  
+}
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+select {
+  width: 200px;
+  height: 40px;
+  text-align: center;
+  margin-top: 35px;
+}
+
+.start_btn {
+  width: 450px;
+  height: 180px;
+}
